@@ -18,5 +18,4 @@ This is a basic Hello World program. I created this to demostrate the use of Vis
 
 # Useful Websites
 
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* VS Code and Git (https://code.visualstudio.com/docs/sourcecontrol/overview)
